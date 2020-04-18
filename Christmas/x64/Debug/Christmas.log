@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\backup\univ\개인프로젝트\자체제작\christmas\christmas\main.cpp(75): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\backup\univ\개인프로젝트\자체제작\christmas\christmas\main.cpp(94): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\backup\univ\개인프로젝트\자체제작\christmas\christmas\main.cpp(176): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Christmas.vcxproj -> D:\Backup\Univ\개인프로젝트\자체제작\Christmas\x64\Debug\Christmas.exe
